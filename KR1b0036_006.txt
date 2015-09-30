@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書傳會選
-#+DATE: 2015-09-23 09:36:10
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:03:02.250003
+#+PROPERTY: ID KR1b0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1b0036_WYG_006-1a>¶
 欽定四庫全書¶
 　書傳會選卷六¶
@@ -920,4 +922,3 @@
 (結/反)傳(繳古/了反)¶
 　¶
 　書傳會選卷六¶
-
